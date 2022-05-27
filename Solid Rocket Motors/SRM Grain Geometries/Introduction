@@ -1,0 +1,10 @@
+This part of the PhysFloof Aero directory concerns details surrounding propellant geometries.
+While it may be possible for these geometries to be applied to hybrid motor grains, the initial focus is on solid rocket motor design.
+
+So what is important about grain geometries?
+Well, grain geometries allow for different thrust profiles throughout a motor's burn. This can help to reduce loads on a vehicle, among other things.
+
+The geometries I focus my attention on don't necessarily need to be useful.
+If anything, the process of determining a grain geometry's behavior is mentally engaging and a fun challenge.
+Participation in this madness is recommended, and serves to also expand one's mathematics toolset or problem solving techniques.
+I hope that some of these will be investigated by individuals in the EX motors community and see if their results match my predictions.
