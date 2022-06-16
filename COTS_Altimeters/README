@@ -1,0 +1,19 @@
+The information in this folder is relevant to Commercial Off The Shelf (COTS) altimeters.
+Here, models of altimeters can be found as well as drilling guides/one-piece standoffs.
+Each model was produced in TinkerCAD to the best of my ability, and has worked reasonably well in practice.
+The USB port on the EasyMini v2.0 model is a little big, but it's an easy fix by anyone with an EasyMini, or it can simply be taken as-is for those not concerned about volume constraints.
+
+Current List of items:
+
+Altus Metrum EasyMini v2.0:
+  - .stl of EasyMini
+  - 3d-printable, one-piece standoff/drill guide
+
+Altus Metrum Telemetrum v2.0:
+  - .stl of Telemetrum
+  - 3d-printable, one-piece standoff/drill guide
+
+Featherweight Raven 4:
+  - ***model is yet to be produced***
+  - 3d-printable, one-piece standoff/drill guide
+  
